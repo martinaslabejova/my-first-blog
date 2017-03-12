@@ -25,7 +25,7 @@ SECRET_KEY = 'z3^5(9^g=y8(b1n2o)%qbm_lyuy1es$d+vuu*1zl@$n*uc=e%='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['martinaslabejova.pythonanywhere.com']
 
 
 # Application definition
